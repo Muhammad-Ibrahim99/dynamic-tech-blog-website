@@ -2,8 +2,6 @@
 import React from "react";
 import CommentSection from "@/components/CommentSection";
 import AuthorCard from "@/components/AuthorCard";
-import Image from "next/image";
-import { title } from "process";
 
 
 const posts = [

@@ -9,7 +9,7 @@ export default function Feature() {
         </h2>
 
         <p className="text-center m-4 mt-4 text-sm text-black sm:text-base md:mb-12 lg:mb-16 animate-fade-in-up delay-100 ">
-          Welcome to my blog! As a front-end web developer, I share insights, tutorials, and innovations in tech, focusing on AI, ML, and modern web frameworks like Next.js. Whether you're a developer or tech enthusiast, you'll find inspiration and knowledge here. Let's explore the future of the web together!
+          Welcome to my blog! As a front-end web developer, I share insights, tutorials, and innovations in tech, focusing on AI, ML, and modern web frameworks like Next.js. Whether you are a developer or tech enthusiast, you will find inspiration and knowledge here. Lets explore the future of the web together!
           </p>
 
           <div className="mx-auto max-w-7xl px-5">
